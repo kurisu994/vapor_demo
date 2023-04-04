@@ -8,3 +8,5 @@ db.sqlite
 .swiftpm
 .env
 Package.resolved
+.vscode
+.idea
